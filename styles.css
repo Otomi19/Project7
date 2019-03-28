@@ -1,0 +1,27 @@
+.logo{
+    width:200px;
+}
+img{
+    width:350px;
+}
+div{
+    display:none;
+}
+h4{
+    font-family: 'Germania One', cursive;
+}
+h3{
+    font-family: 'Shadows Into Light', cursive;
+font-family: 'Teko', sans-serif;
+}
+h2{
+    font-family: 'Satisfy', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Cuprum', sans-serif;
+}
+button{
+    font-family: 'Courgette', cursive;
+}
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
